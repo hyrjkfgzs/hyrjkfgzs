@@ -2,9 +2,11 @@
 
 ### 关于我
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+#### - 🌱 这是一个什么都不会的小渣渣
+
+- 🌱 目前在学习C#
+- 🌱 
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyrjkfgzs)](https://github.com/anuraghazra/github-readme-stats)
-
-
